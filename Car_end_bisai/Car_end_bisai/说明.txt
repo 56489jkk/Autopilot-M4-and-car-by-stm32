@@ -1,0 +1,3 @@
+更新CubeMX后，对于LCD的错误:   (1) 先打开HAL驱动文件中stm32f1xx_hal_sram.c下包含的stm32f1xx_hal_conf.h文件；
+                                                           并将#define HAL_SRAM_MODULE_ENABLED开启。
+                                                      (2) 再将stm32f1xx_hal_sram.h与stm32f1xx_ll_fsmc.h文件都加到Drivers文件夹的Inc中。

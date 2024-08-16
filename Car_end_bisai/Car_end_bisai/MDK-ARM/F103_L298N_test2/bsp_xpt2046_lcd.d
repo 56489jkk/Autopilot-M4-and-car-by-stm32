@@ -1,0 +1,10 @@
+f103_l298n_test2\bsp_xpt2046_lcd.o: ..\User\lcd\bsp_xpt2046_lcd.c
+f103_l298n_test2\bsp_xpt2046_lcd.o: ..\User\lcd\bsp_xpt2046_lcd.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: .\RTE\_F103_L298N_test2\RTE_Components.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\core_cm3.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: ..\User\lcd\bsp_ili9341_lcd.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+f103_l298n_test2\bsp_xpt2046_lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h

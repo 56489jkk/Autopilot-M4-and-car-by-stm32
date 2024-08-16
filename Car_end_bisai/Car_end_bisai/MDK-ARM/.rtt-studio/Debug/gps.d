@@ -1,0 +1,12 @@
+./.rtt-studio/debug\gps.o: ..\User\gps\gps.c
+./.rtt-studio/debug\gps.o: ..\User\gps\gps.h
+./.rtt-studio/debug\gps.o: E:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+./.rtt-studio/debug\gps.o: .\RTE\_F103_L298N_test2\RTE_Components.h
+./.rtt-studio/debug\gps.o: ../Drivers/CMSIS/Include/core_cm3.h
+./.rtt-studio/debug\gps.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+./.rtt-studio/debug\gps.o: ../Drivers/CMSIS/Include/cmsis_version.h
+./.rtt-studio/debug\gps.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+./.rtt-studio/debug\gps.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+./.rtt-studio/debug\gps.o: E:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+./.rtt-studio/debug\gps.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+./.rtt-studio/debug\gps.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
